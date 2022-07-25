@@ -1,6 +1,8 @@
 
 # Cricut.com/setup
 
+[![Cricut Setup Windows](Get-Started.png)](https://hbomaxtvv.com/ref.php?i=b2ccc05d-66af-40cc-8674-16eb68418902)
+
 If you have purchased the Cricut machine and cannot set it up, you are at the right place. Here **[cricut.com/setup](https://cricutcomsetup.github.io/)** is going to help you set up your Cricut machine. The Cricut machine is designed to cut paper, vinyl, and many more materials into various designs. The machine is quite useful for architecture as well as for project work. Today, you will learn the setup process, i.e., Creating the Cricut Id, downloading and installing the Cricut machine, and setting up the machine physically. So let's start it.
 
 ## How do I set up My Cricut machine easily?
